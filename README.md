@@ -1,3 +1,3 @@
 # KitPvP-Dev
 
-TESTE
+#-- Projeto de plugin para minecraft.
